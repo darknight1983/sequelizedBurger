@@ -1,0 +1,26 @@
+body {
+  background-color: rgba(253, 204, 51, 1.0);
+}
+.top-section {
+  text-align: center;
+}
+
+.content {
+  margin-top: 50px;
+  background-color: rgba(253, 204, 51, 1.0);
+  text-align: center;
+}
+
+.burger-item {
+  background-color: rgba(195, 0, 0, 1.0);
+}
+
+
+.burger-item:hover {
+  cursor: pointer;
+  background-color: rgba(0, 205, 146, 1.0);
+}
+
+.ate-up {
+  background-color: rgba(150, 255, 74, 1.0);
+}
